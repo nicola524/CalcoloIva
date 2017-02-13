@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="ff11341a0c7045d9bf66a50bcd872f1af97c8991">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d5ce400c8624eb1a4158ace9323414c2522f9410\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Nicola\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_39d3ee25827dc88c664ec759737445a0932a932b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_a1fe132f3b04bdef9f78864aedc777eef53870c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_80c4867fbec11e5cfc27820f26937f060c9e81c0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_d132e54b9be85c022ab4d578a9e5579d5c6d6d4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.0"
+        sha1="498b4b3d904be5bfaeca565d1d4676a9534a005f">
+        <dex dex="C:\Sorgenti\Android\Nicola Brogelli\CalcoloIVA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_449172531fa6504cb4781fdf0fc676c3477aa118\classes.dex" />
+    </item>
+
+</items>
